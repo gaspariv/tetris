@@ -1,1 +1,2 @@
 # tetris
+Tetris 1.0 esta disponible para descargar desde el sitio web. Tetris pertenece al grupo de programas Juegos, en concreto al de aplicaciones sobre Arcade. El nombre de archivo de instalación del programa más común es: TETRIS.EXE. La última versión de este programa puede instalarse en ordenadores con Windows XP/Vista/7/8/10/11 de 32 bits y 64 bits. Las versiones de Tetris más usadas son 1.7 y 1.0.
